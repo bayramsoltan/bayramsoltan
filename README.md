@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mervezi
 - 👀 I’m interested in Books
-- 🌱 I’m currently learning HTMl, CSS & Javascript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning HTML, CSS & Javascript
+- 💞️ I’m looking to collaborate on github @mervezi
 - 📫 How to reach me you can mail me bayramsoltanov01@gmail.com
 
 <!---
