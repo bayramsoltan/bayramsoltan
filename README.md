@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mervezi
+- 👋 Hi, I’m @bayramsoltan
 - 👀 I’m interested in Books
 - 🌱 I’m currently learning HTML, CSS & Javascript
-- 💞️ I’m looking to collaborate on github @mervezi
+- 💞️ I’m looking to collaborate on LinkedIn @bayramsolanov
 - 📫 How to reach me you can mail me bayramsoltanov01@gmail.com
 
 <!---
