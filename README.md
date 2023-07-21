@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a frontend developer, I build responsive, modern websites that are easy to use. I've worked a lot with APIs for frontend integration and used Redux for managing state in e-commerce websites and admin dashboards. I know my way around with Figma, TailwindCSS and Bootstrap. Besides tech skills, I've led teams, coordinated git pull requests, and used Jira for fast and flexible projects. I work hard, love coding, and always ready to learn and face new challenges.
+Experienced frontend developer adept at creating responsive, modern websites with seamless API integration. Skilled in Redux for state management in e-commerce and admin dashboards. Proficient in Figma, TailwindCSS, and Bootstrap. Demonstrated leadership in team coordination, Git pull requests, and Jira project management. Committed to ongoing learning and embracing new challenges.
 <br>⚡ My life motto is to spread kindness.
 
 
