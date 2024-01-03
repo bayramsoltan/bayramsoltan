@@ -1,6 +1,6 @@
 # 💫 About Me:
 Experienced frontend developer adept at creating responsive, modern websites with seamless API integration. Skilled in Redux for state management in e-commerce and admin dashboards. Proficient in Figma, TailwindCSS, and Bootstrap. Demonstrated leadership in team coordination, Git pull requests, and Jira project management. Committed to ongoing learning and embracing new challenges.
-<br>⚡ My life motto is to spread kindness.
+<br>⚡ My life motto is Live every day like it's your last.
 
 
 ## 🌐 Socials:
